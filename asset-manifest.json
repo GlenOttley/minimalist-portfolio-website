@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/minimalist-portfolio-website/static/css/main.60ab5206.chunk.css",
+    "main.js": "/minimalist-portfolio-website/static/js/main.e55efb91.chunk.js",
+    "main.js.map": "/minimalist-portfolio-website/static/js/main.e55efb91.chunk.js.map",
+    "runtime-main.js": "/minimalist-portfolio-website/static/js/runtime-main.b2c5bd9e.js",
+    "runtime-main.js.map": "/minimalist-portfolio-website/static/js/runtime-main.b2c5bd9e.js.map",
+    "static/js/2.8b4d01d7.chunk.js": "/minimalist-portfolio-website/static/js/2.8b4d01d7.chunk.js",
+    "static/js/2.8b4d01d7.chunk.js.map": "/minimalist-portfolio-website/static/js/2.8b4d01d7.chunk.js.map",
+    "index.html": "/minimalist-portfolio-website/index.html",
+    "static/css/main.60ab5206.chunk.css.map": "/minimalist-portfolio-website/static/css/main.60ab5206.chunk.css.map",
+    "static/js/2.8b4d01d7.chunk.js.LICENSE.txt": "/minimalist-portfolio-website/static/js/2.8b4d01d7.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.a89e4de1.svg": "/minimalist-portfolio-website/static/media/arrow-left.a89e4de1.svg",
+    "static/media/arrow-right.aec1b6f9.svg": "/minimalist-portfolio-website/static/media/arrow-right.aec1b6f9.svg",
+    "static/media/close.6229efc8.svg": "/minimalist-portfolio-website/static/media/close.6229efc8.svg",
+    "static/media/down-arrows.2bd23bfb.svg": "/minimalist-portfolio-website/static/media/down-arrows.2bd23bfb.svg",
+    "static/media/github.3880ceac.svg": "/minimalist-portfolio-website/static/media/github.3880ceac.svg",
+    "static/media/hamburger.15a29eb2.svg": "/minimalist-portfolio-website/static/media/hamburger.15a29eb2.svg",
+    "static/media/image-homepage-hero.18443de6.jpg": "/minimalist-portfolio-website/static/media/image-homepage-hero.18443de6.jpg",
+    "static/media/image-homepage-hero.4eb4358b.jpg": "/minimalist-portfolio-website/static/media/image-homepage-hero.4eb4358b.jpg",
+    "static/media/image-homepage-hero.da80fc10.jpg": "/minimalist-portfolio-website/static/media/image-homepage-hero.da80fc10.jpg",
+    "static/media/image-homepage-hero@2x.0d83d4b9.jpg": "/minimalist-portfolio-website/static/media/image-homepage-hero@2x.0d83d4b9.jpg",
+    "static/media/image-homepage-hero@2x.0dc246d4.jpg": "/minimalist-portfolio-website/static/media/image-homepage-hero@2x.0dc246d4.jpg",
+    "static/media/image-homepage-hero@2x.10f998fc.jpg": "/minimalist-portfolio-website/static/media/image-homepage-hero@2x.10f998fc.jpg",
+    "static/media/image-homepage-profile.27a4a72c.jpg": "/minimalist-portfolio-website/static/media/image-homepage-profile.27a4a72c.jpg",
+    "static/media/image-homepage-profile.babfb693.jpg": "/minimalist-portfolio-website/static/media/image-homepage-profile.babfb693.jpg",
+    "static/media/image-homepage-profile@2x.39f9160a.jpg": "/minimalist-portfolio-website/static/media/image-homepage-profile@2x.39f9160a.jpg",
+    "static/media/image-homepage-profile@2x.b80aed3f.jpg": "/minimalist-portfolio-website/static/media/image-homepage-profile@2x.b80aed3f.jpg",
+    "static/media/image-homepage-profile@2x.bd63a80a.jpg": "/minimalist-portfolio-website/static/media/image-homepage-profile@2x.bd63a80a.jpg",
+    "static/media/linkedin.74f01651.svg": "/minimalist-portfolio-website/static/media/linkedin.74f01651.svg",
+    "static/media/logo.6b2775f2.svg": "/minimalist-portfolio-website/static/media/logo.6b2775f2.svg",
+    "static/media/twitter.7df99bf5.svg": "/minimalist-portfolio-website/static/media/twitter.7df99bf5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2c5bd9e.js",
+    "static/js/2.8b4d01d7.chunk.js",
+    "static/css/main.60ab5206.chunk.css",
+    "static/js/main.e55efb91.chunk.js"
+  ]
+}
