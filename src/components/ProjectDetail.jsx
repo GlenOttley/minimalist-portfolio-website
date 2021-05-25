@@ -16,7 +16,7 @@ function ProjectDetail({ project, breakPoints }) {
 	  				: breakPoints.tabletSm ? project.heroTabletSm
 	  				: breakPoints.tabletLg ? project.heroTabletLg
 	  				: breakPoints.desktopSm ? project.heroDesktopSm
-	  				: project.heroDesktopLg } 
+	  				: project.heroDesktopLg} 
 	  			/>
 			</div>
 

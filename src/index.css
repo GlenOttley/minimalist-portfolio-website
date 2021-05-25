@@ -15,6 +15,7 @@
 }
 
 body {
+	background-color: var(--very-light-grey);
 	margin: 0;
 	padding-top: 7em;
 }
@@ -159,7 +160,7 @@ BUTTONS
 }
 
 .btn-secondary {
-	background-color: white;
+	background-color: var(--very-light-grey);
 	border: 1px solid var(--grayish-dark-blue);
 	max-width: 225px;
 }
@@ -190,6 +191,7 @@ NAV
 	padding-bottom: 2em;
 	z-index: 1;
 	box-shadow: 0px 1px 5px var(--light-grey);
+	background-color: var(--very-light-grey);
 }
 
 .nav__hamburger {
@@ -245,8 +247,8 @@ HERO
 @media (min-width: 640px) {
 	.hero__message {
 		position: absolute;
+		background-color: var(--very-light-grey);
 		bottom: 0;
-		background-color: white;
 		width: 75%;
 		padding-right: 2em;
 		padding-top: 2em;
